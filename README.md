@@ -12,5 +12,5 @@ Eva is chatting right now at http://facebook.com/bots4health
 There's also a website with a blog on http://bopts4health.com
 
 ## How to help Eva
-Reach cristina@bots4health.com for jobs, investments and collaboration leads
+Reach cristina@bots4health.com for employment, investment and collaboration leads
 
