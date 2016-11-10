@@ -3,7 +3,7 @@ A Women's Health chatbot
 
 ## Where to find Eva
 - Eva is chatting right now at http://facebook.com/bots4health
-- There's also a website with a blog on http://bopts4health.com
+- There's also a website with a blog at http://bots4health.com
 
 ## How to help Eva
 Reach cristina@bots4health.com for employment, investment and collaboration leads
