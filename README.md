@@ -19,7 +19,7 @@ Reach cristina@bots4health.com for employment, investment and collaboration lead
 Eva is built using Chatfuel http://chatfuel.com
 
 ## Contribute
-1. If you have an improvement idea, first check if there is an issue for it.
-1a. If there is one, add a comment to endorse it and add anything you feel is missing.
-1b. Otherwise create a new issue an add the "suggestion" label.
-2. Our team will review it and change to the labels "added to roadmap" or "won't fix".
+1 If you have an improvement idea, first check if there is an issue for it.
+  1a If there is one, add a comment to endorse it and add anything you feel is missing.
+  1b Otherwise create a new issue an add the "suggestion" label.
+2 Our team will review it and change to the labels "added to roadmap" or "won't fix".
