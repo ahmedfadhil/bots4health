@@ -11,8 +11,9 @@ Reach cristina@bots4health.com for employment, investment and collaboration lead
 ## What Eva does
 - Tracks the menstrual cycle and the body and mind changes that happen through it.
 - Sends an alert a few days before the period is expected.
-- Offers to purchase feminine hygiene products 
 - Does short surveys (3-5 questions) about women or health topics
+- Surveys can be sent by other users for a fee
+- The people receivign the survey are segmented to make sure it is relevant
 - Has a shop to sell products (cups, pads, tampons, hot water bags, blankets)
 
 ## How Eva works
